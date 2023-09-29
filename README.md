@@ -1,2 +1,13 @@
-# HTML-CSS
-Portifólio de Desenvolvimentos em HTML e CSS
+# HTML + CSS Portifólio
+Este portifólio destina-se a fins de aprendizado e demonstra minha experiência em desenvolvimentos em HTML e CSS
+
+## Conteúdo
+### [1. Email)
+#### Criação de um e-mail padronizado para avaliação técnica de candidatos
+* Acesse o [modelo lógico dimensional dos dados](./Modelo_Logico_DW_Nascimento.pdf)
+* Ferramentas utilizadas: [Pentaho Data Integration](https://datastudio.withgoogle.com/)
+* Fonte de Dados: [Ministério do Meio Ambiente](dados.mma.gov.br/sv/dataset/especies-ameacadas) e [Base de Dados](basedosdados.org/dataset/br-mma-extincao?bdm_table=fauna_ameacada)
+* Esses são os conjuntos de dados [1](./Especies_Ameacadas_Brasil/enriquecimento_de_base.csv), [2](./Especies_Ameacadas_Brasil/fauna_ameacada_2022.csv) e [3](./Especies_Ameacadas_Brasil/flora_ameacada_2022.csv) utilizados
+* Padrão de cores: [paleta Governo Brasil 2023](./Especies_Ameacadas_Brasil/paleta_cores_governo.pptx) 
+
+
